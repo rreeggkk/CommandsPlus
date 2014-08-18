@@ -1,0 +1,11 @@
+name: CommandsPlus
+main: me.Bman.Main.Main
+version: 1.0
+description: CommandsPlus
+author: BmanSlayer1
+
+commands:
+  heal:
+    description: Heals you or another player
+    permission: commandsplus.heal
+    permission-message: Sorry, you don't have enough permissions.
